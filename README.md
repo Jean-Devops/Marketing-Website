@@ -2,7 +2,7 @@
 
 A front-end marketing project for action figures, built with React, Vite, Tailwind, and TypeScript.  
 
-## 🚀 Preview  a
+## 🚀 Preview
 
 <div style="text-align: center">  
 <img src="https://i.ibb.co/4nbyZNdX/website-preview.png" style="width: 700px">  
